@@ -1,3 +1,5 @@
+![Picsart_25-02-28_04-00-51-280](https://github.com/user-attachments/assets/3edbd5a9-5e31-4e0b-948d-d08434064ccc)
+![Picsart_25-02-28_05-04-41-069](https://github.com/user-attachments/assets/077541a5-a0c9-4da0-bffa-4f9296073a86)
 # STATUS-Discord V.1
 + 🟣Streaming status for Discord accounts
 
